@@ -1,5 +1,6 @@
 body {
 	margin: 0;
+	font-family: "alternate-gothic-no-3-d",sans-serif;
 }
 
 #wrapper {
@@ -30,7 +31,7 @@ body {
 	float: left;
 	font-size: 20px;
 	width: 70px;
-	padding: 10px;
+	line-height: 60px;
 }
 
 #content {
